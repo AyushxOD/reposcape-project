@@ -2,7 +2,7 @@
 
 **RepoScape** transforms the entire history of a software repository into a stunning, interactive 3D city that you can explore. Watch the project's development unfold before your eyes in a cinematic "time machine" animation, revealing the story of how great software is built. This isn't just a `git log`—it's a living data sculpture.
 
-![RepoScape Screenshot](https://i.imgur.com/3nB4J2r.jpeg) 
+![Link](https://reposcape.netlify.app/) 
 *(You should replace this with a cool screenshot or GIF of your running application!)*
 
 ---
